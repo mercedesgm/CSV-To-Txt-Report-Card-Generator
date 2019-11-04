@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone this repo and npm install
-2. Congrats you're done
+2. Congrats! You're done
 
 ## Assets Folder
 
