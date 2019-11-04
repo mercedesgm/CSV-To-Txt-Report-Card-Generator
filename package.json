@@ -1,0 +1,16 @@
+{
+  "name": "hatchaway",
+  "version": "1.0.0",
+  "description": "hatchaway assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mercedes Miller",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.6.5",
+    "fs": "0.0.1-security"
+  }
+}
